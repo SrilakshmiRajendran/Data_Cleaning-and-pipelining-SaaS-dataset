@@ -1,0 +1,5 @@
+Pro : 3
+Basic : 2
+Enterprise : 1
+Unknown : 1
+Normal : 1
